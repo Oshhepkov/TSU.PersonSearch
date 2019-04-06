@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TSU.PersonSearch</string>
+    <string name="can_search">Вы всегда можете воспользоваться строкой поиска в верхней панели :)</string>
+    <string name="oh_no">Ох нет, похоже мы ничего не нашли :(</string>
+    <string name="go_ewe_raz">Давай ещё раз!</string>
+    <string name="post_department">Отдел:</string>
+</resources>
